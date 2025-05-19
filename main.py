@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Response, Query
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse, JSONResponse
 
 import random
 
