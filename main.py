@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Response
+from fastapi import FastAPI, Response, Query
 from fastapi.responses import HTMLResponse
 
 import random
